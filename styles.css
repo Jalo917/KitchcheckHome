@@ -1,0 +1,9 @@
+section.headline {
+  display: flex;
+  justify-content: center;
+}
+
+.MainHeadline {
+  font-size: 100px;
+  color: blue;
+}
